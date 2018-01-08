@@ -1,6 +1,6 @@
 {
   "name": "passport-costlocker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Passport.js Costlocker strategy.",
   "main": "./lib/index.js",
   "repository": {
